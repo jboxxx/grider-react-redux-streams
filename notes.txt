@@ -1,0 +1,2 @@
+REST
+  A predefined system for defining different routes on an API that work with given type of records
